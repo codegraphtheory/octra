@@ -111,6 +111,11 @@ nano wallet.json
   * `private-key-here`: Privatekey with `B64` format
   * `octxxxxxxxx...`: Octra address starting with `oct...`
 
+**Safety note**
+
+Do not share your `wallet.json`, private key, seed phrase, PIN, or decrypted wallet material in Discord, issues, pull requests, screenshots, or support chats. If you need someone to help debug setup, share only redacted errors, public addresses, and the non-secret shape of the file.
+
+For an optional AI-assisted checklist focused on Octra wallet/client safety, [ChainForge](https://github.com/codegraphtheory/chainforge) includes Octra-specific review guidance for `octra_pre_client`, `webcli`, wallet generation, RPC use, and private-key handling.
 
 **4. Run CLI**
 ```bash
