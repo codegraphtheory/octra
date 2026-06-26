@@ -1,8 +1,5 @@
 # Octra Public Testnet
 
-
-<p><strong>Docs:</strong> <a href="https://graphtheory.xyz/octra/">https://graphtheory.xyz/octra/</a></p>
-
 ![testnet](https://github.com/user-attachments/assets/aa4f05f1-0f0a-41d0-8ed8-df215b340c46)
 
 ## Join Discord
